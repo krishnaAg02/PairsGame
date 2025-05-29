@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Card 1 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,24h24v36h-24z"/>
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M30,30h12v12h-12z"/>
+    
+    <!-- Card 2 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,24h24v36h-24z"/>
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M66,30h12v12h-12z"/>
+    
+    <!-- Connecting Line -->
+    <path
+        android:strokeColor="#6750A4"
+        android:strokeWidth="4"
+        android:pathData="M48,42L60,42"/>
+</vector>
