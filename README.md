@@ -21,4 +21,3 @@
   <img width="300" height="500" alt="Leaderboard Screen"
        src="https://github.com/user-attachments/assets/be824fb8-76ef-47e5-a549-e7d567c72b15" />
 </p>
-
